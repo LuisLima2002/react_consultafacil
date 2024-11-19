@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;  
+}
+
+/* Simple styles for the login page */
+body {
+  font-family: Arial, sans-serif;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f4f4f4;
+  width: 100%;
+}
+
+#root {
+  width: 100%;
+}
